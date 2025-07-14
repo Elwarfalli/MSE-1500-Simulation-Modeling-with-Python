@@ -14,11 +14,11 @@ You can open and run each chapter directly in your browser using [Google Colab](
 
 - **Chapter 2 – Random Number Generators**  
   Topics: Lagged Fibonacci, Linear Congruential Generator, Random Sampling, Encrypt/Decrypt, Password Generation  
-  👉 [Open in Colab](https://colab.research.google.com/github/elwarfalli/MSE-1500-Simulation/blob/main/chapter_2.ipynb)
+  👉 [Open in Colab](https://colab.research.google.com/github/elwarfalli/MSE-1500-Simulation-Modeling-with-Python/blob/main/chapter_2.ipynb)
 
 - **Chapter 3 – Probability Distributions & Image Augmentation**  
   Topics: Binomial, Uniform, Normal Distributions, Power Analysis, Image Augmentation with Keras  
-  👉 [Open in Colab](https://colab.research.google.com/github/elwarfalli/MSE-1500-Simulation/blob/main/chapter_3.ipynb)
+  👉 [Open in Colab](https://colab.research.google.com/github/elwarfalli/MSE-1500-Simulation-Modeling-with-Python/blob/main/chapter_3.ipynb)
 
 ## 📂 File Structure
 
