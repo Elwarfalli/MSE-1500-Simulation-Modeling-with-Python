@@ -104,7 +104,7 @@ You can open and run each chapter directly in your browser using **Google Colab*
 - Describe the geometric Brownian motion model  
 - Write code to implement Monte Carlo methods for stock price prediction  
 - Analyze risk models for portfolio management  
-*(Notebook coming soon)*
+👉 [Open Chapter 9 in Colab](https://colab.research.google.com/github/elwarfalli/MSE-1500-Simulation-Modeling-with-Python/blob/main/chapter_9.ipynb)
 
 ---
 
@@ -112,11 +112,11 @@ You can open and run each chapter directly in your browser using **Google Colab*
 - Articulate project management  
 - Write code to implement schedule project time using the Monte Carlo simulation  
 - Perform fault diagnosis  
-*(Notebook coming soon)*
+👉 [Open Chapter 10 in Colab](https://colab.research.google.com/github/elwarfalli/MSE-1500-Simulation-Modeling-with-Python/blob/main/chapter_10.ipynb)
 
 ---
 
 ### 11. Create simulation models for fault diagnosis in dynamic systems  
 - Write code to simulate a fault diagnosis model for a motor gearbox  
 - Write code to simulate a fault diagnosis model for an unmanned aerial vehicle  
-*(Notebook coming soon)*
+👉 [Open Chapter 11 in Colab](https://colab.research.google.com/github/elwarfalli/MSE-1500-Simulation-Modeling-with-Python/blob/main/chapter_11.ipynb)
